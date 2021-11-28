@@ -4,8 +4,8 @@ This extension allows the possibility of using Visual Studio Code as executor an
 
 # How to make it work
 
-1 ° Install the extension__
-2 ° Copy the code below and paste it in the folder of Synapse X "autoexec"__
+1 ° Install the extension<br />
+2 ° Copy the code below and paste it in the folder of Synapse X "autoexec"<br />
 3 ° Enter a roblox map and have fun
 
 ```lua
